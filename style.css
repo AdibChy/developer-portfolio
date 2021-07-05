@@ -12,7 +12,8 @@ section{
 }
 .A{
     width: 50%px;
+    padding-left: 2%;
 }
 .B img{
-    width: 80%;
+    width: 100%;
 }
