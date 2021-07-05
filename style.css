@@ -10,3 +10,9 @@ span{
 section{
     display: flex;
 }
+.A{
+    width: 50px;
+}
+.B{
+    width: 20px;
+}
