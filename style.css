@@ -11,8 +11,8 @@ section{
     display: flex;
 }
 .A{
-    width: 20px;
+    width: 50%px;
 }
-.B{
-    width: 80px;
+.B img{
+    width: 80%;
 }
