@@ -15,9 +15,10 @@ section{
     padding-left: 2%;
 }
 .B img{
-    width: 100%;
+    width: 120%;
 }
 a{
+    background-image: linear-gradient(red, white);
     text-decoration: none;
     background-color: orange;
     padding: 10px 40px;
