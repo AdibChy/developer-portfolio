@@ -74,7 +74,7 @@ a{
 #web-dev-experience{
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
-    border-image-slice: 1;
+    border-image-slice: 4;
 }
 footer p{
     text-align: center;
